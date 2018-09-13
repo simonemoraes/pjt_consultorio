@@ -2163,3 +2163,5 @@ Stack trace:
   thrown in C:\projetos\projetosAdianti\pjt_consultorio\app\control\pessoas\PacientesForm.php on line 439
 [12-Sep-2018 17:21:50 America/Sao_Paulo] PHP Notice:  Undefined index: QUERY_STRING in C:\projetos\projetosAdianti\pjt_consultorio\lib\adianti\core\AdiantiTemplateParser.php on line 56
 [12-Sep-2018 17:23:15 America/Sao_Paulo] PHP Notice:  Undefined index: QUERY_STRING in C:\projetos\projetosAdianti\pjt_consultorio\lib\adianti\core\AdiantiTemplateParser.php on line 56
+[12-Sep-2018 21:06:25 America/Sao_Paulo] PHP Notice:  Undefined index: QUERY_STRING in C:\projetos\projetosAdianti\pjt_consultorio\lib\adianti\core\AdiantiTemplateParser.php on line 56
+[12-Sep-2018 21:06:33 America/Sao_Paulo] PHP Notice:  Undefined index: QUERY_STRING in C:\projetos\projetosAdianti\pjt_consultorio\lib\adianti\core\AdiantiTemplateParser.php on line 56
