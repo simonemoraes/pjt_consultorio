@@ -2354,3 +2354,4 @@ Stack trace:
 [27-Sep-2018 19:33:06 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in C:\projetos\projetosAdianti\pjt_consultorio\app\control\WelcomeView.class.php on line 33
 [27-Sep-2018 19:33:15 America/Sao_Paulo] PHP Notice:  Indirect modification of overloaded property Adianti\Widget\Container\TPanelGroup::$head has no effect in C:\projetos\projetosAdianti\pjt_consultorio\app\control\WelcomeView.class.php on line 33
 [27-Sep-2018 19:33:15 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in C:\projetos\projetosAdianti\pjt_consultorio\app\control\WelcomeView.class.php on line 33
+[15-May-2019 23:45:29 America/Sao_Paulo] PHP Notice:  Undefined index: QUERY_STRING in C:\projetos\projetosAdianti\pjt_consultorio\lib\adianti\core\AdiantiTemplateParser.php on line 56

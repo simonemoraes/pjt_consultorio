@@ -23,6 +23,10 @@
         <icon>fa:street-view fa-fw </icon>
         <action>TiposEnderecoList#method=onShow</action>
       </menuitem>
+      <menuitem label="Tipos de atendimento">
+        <icon>fa:street-view fa-fw </icon>
+        <action>TipoAtendimentoList#method=onShow</action>
+      </menuitem>
       <menuitem label="Especialidades">
         <icon>fa:stethoscope fa-fw </icon>
         <action>EspecialidadeList#method=onShow</action>
